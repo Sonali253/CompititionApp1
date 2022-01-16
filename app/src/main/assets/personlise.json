@@ -1,0 +1,104 @@
+{
+  "stateList" : [
+{
+"code": "AP",
+"name": "Andhra Pradesh"
+},
+{
+"code": "KA",
+"name": "Karnataka"
+},
+{
+"code": "MP",
+"name": "Madhya Pradesh"
+},
+{
+"code": "MH",
+"name": "Maharashtra"
+},
+{
+"code": "TS",
+"name": "Telangana"
+}
+],
+  "standerdList" : [
+{
+"code": "1",
+"name": "1st"
+},
+{
+"code": "2",
+"name": "2nd"
+},
+{
+"code": "3",
+"name": "3rd"
+},
+{
+"code": "4",
+"name": "4th"
+},
+{
+"code": "5",
+"name": "5th"
+},
+{
+"code": "6",
+"name": "6th"
+},
+{
+"code": "7",
+"name": "7th"
+},
+{
+"code": "8",
+"name": "8th"
+},
+{
+"code": "9",
+"name": "9th"
+},
+{
+"code": "10",
+"name": "10th"
+}
+],
+"boardList" : [
+{
+"code": "state",
+"name": "State Board"
+},
+{
+"code": "CBSE",
+"name": "CBSE"
+}
+],
+"subjectList": [
+{
+"code": "sci",
+"name": "Science"
+},
+{
+"code": "math",
+"name": "Maths"
+},
+{
+"code": "eng",
+"name": "English"
+},
+{
+"code": "his",
+"name": "History"
+},
+{
+"code": "geo",
+"name": "Geography"
+}
+],
+  "competitionList": [
+    {
+      "code": "edu",
+      "name": "Education"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540187227936",
+    "project_id": "compititionapp",
+    "storage_bucket": "compititionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540187227936:android:c530f73ba6a4b499e14945",
+        "android_client_info": {
+          "package_name": "com.compititionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540187227936-na3b60gebkjvkrithffjvqluel08n1um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_8o75R2jXPYxDYGkVlYNUBgNhnFI4_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540187227936-na3b60gebkjvkrithffjvqluel08n1um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

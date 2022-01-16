@@ -1,0 +1,110 @@
+{
+  "studyMaterial": {
+    "content": [
+      {
+        "status": "",
+        "createdBy": "6084426226615503d53cf687",
+        "updatedBy": null,
+        "createdDate": 1619686009719,
+        "updatedDate": 1619686009719,
+        "id": "608a727945c6ae5e29415f93",
+        "smName": "book 4",
+        "smDescription": "good book",
+        "smState": "MH",
+        "smCompetitionType": "edu",
+        "smStandard": "1",
+        "smSubjects": "sci",
+        "smPattern": "CBSC",
+        "smPrice": 10.0,
+        "smDiscount": 5.0,
+        "smImgUrl": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg",
+        "smPrvImg": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg"
+      },
+      {
+        "status": "",
+        "createdBy": "6084426226615503d53cf687",
+        "updatedBy": null,
+        "createdDate": 1619685878354,
+        "updatedDate": 1619685878354,
+        "id": "608a71f645c6ae5e29415f92",
+        "smName": "book 3",
+        "smDescription": "good book",
+        "smState": "MH",
+        "smCompetitionType": "edu",
+        "smStandard": "1",
+        "smSubjects": "sci",
+        "smPattern": "CBSC",
+        "smPrice": 10.0,
+        "smDiscount": 5.0,
+        "smImgUrl": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg",
+        "smPrvImg": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg"
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "sorted": true,
+        "unsorted": false,
+        "empty": false
+      },
+      "pageNumber": 0,
+      "pageSize": 10,
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "totalElements": 2,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "size": 10,
+    "number": 0,
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "numberOfElements": 2,
+    "empty": false
+  },
+  "total studyMaterial count": [
+    {
+      "status": "",
+      "createdBy": "6084426226615503d53cf687",
+      "updatedBy": null,
+      "createdDate": 1619686009719,
+      "updatedDate": 1619686009719,
+      "id": "608a727945c6ae5e29415f93",
+      "smName": "book 4",
+      "smDescription": "good book",
+      "smState": "MH",
+      "smCompetitionType": "edu",
+      "smStandard": "1",
+      "smSubjects": "sci",
+      "smPattern": "CBSC",
+      "smPrice": 10.0,
+      "smDiscount": 5.0,
+      "smImgUrl": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg",
+      "smPrvImg": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg"
+    },
+    {
+      "status": "",
+      "createdBy": "6084426226615503d53cf687",
+      "updatedBy": null,
+      "createdDate": 1619685878354,
+      "updatedDate": 1619685878354,
+      "id": "608a71f645c6ae5e29415f92",
+      "smName": "book 3",
+      "smDescription": "good book",
+      "smState": "MH",
+      "smCompetitionType": "edu",
+      "smStandard": "1",
+      "smSubjects": "sci",
+      "smPattern": "CBSC",
+      "smPrice": 10.0,
+      "smDiscount": 5.0,
+      "smImgUrl": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg",
+      "smPrvImg": "https://as2.ftcdn.net/jpg/01/09/15/33/500_F_109153357_R46NWlYZjoFi6Yc9dqhEsk61oInyRVmj.jpg"
+    }
+  ],
+  "status": "success"
+}

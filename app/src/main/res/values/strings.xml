@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CompititionApp</string>
+    <string name="title_activity_login">Log In</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Log In</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="welcome">"Welcome, "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="text_choice_1">Education</string>
+    <string name="text_choice_2">Design</string>
+    <string name="text_choice_3">Singing</string>
+
+
+    <string-array name="Subjects">
+        <item>Choose Exam Category</item>
+        <item>Math</item>
+        <item>Science</item>
+        <item>History</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_username">please enter a Username</string>
+
+</resources>
